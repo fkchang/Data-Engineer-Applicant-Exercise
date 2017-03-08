@@ -2,8 +2,6 @@
 
 To be considered for a developer position at [Hedgeye](http://www2.hedgeye.com), you must successfully complete these steps [**](#footnote)
 
-**Please note:** your code will be tested on Ruby 1.9.3 and the latest version of Chrome.
-
 1. Fork this repository
 1. In the *why_hire_me* directory
     * Add a file `cover_letter.txt` with cover letter type verbiage.
@@ -19,10 +17,11 @@ the following information from the first 6 articles on our website [here](https:
       * Twitter Handle (leave blank if not present)
     * Content Body HTML
     * Include a copy of the CSV file generated from your run
+    * Include run instructions (specify versions used)
     * Extra Credit: Download first image in content body and save to local filesystem
     * Tips
         * Write good code that you want people to see.
-        * Make it easy to use so we can run it and see the results
+        * Make it easy to use
     * See [example article](https://app.hedgeye.com/insights/56827-investors-positioned-for-a-correction-are-positioned-for-failure) & illustrated data points:
     ![Sample Article](images/collect_data_points.jpg)
 6. Commit and Push your code to your fork
