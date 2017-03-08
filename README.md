@@ -1,4 +1,4 @@
-# Web Developer Applicant Exercise
+# Data Engineer Applicant Exercise
 
 To be considered for a developer position at [Hedgeye](http://www2.hedgeye.com), you must successfully complete these steps [**](#footnote)
 
