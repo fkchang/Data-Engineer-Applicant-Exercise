@@ -1,4 +1,4 @@
-How many years of Web development experience do you have?
+How many years of development experience do you have?
 
 
 How many years of JavaScript experience do you have?
@@ -7,13 +7,16 @@ How many years of JavaScript experience do you have?
 How many years of Ruby experience do you have?
 
 
-How many years of Rails development experience do you have?
+How many years of other high level language(s) if not Ruby or JavaScript do you have?
 
 
 What are your opinions on Agile software development?
 
 
 TDD or BDD?
+
+
+Do you have any Ruby or Ruby on Rails experience?
 
 
 What are you looking for in a job?
