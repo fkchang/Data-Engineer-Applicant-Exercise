@@ -1,3 +1,4 @@
-This is the Refactoring problem in Java.  If you are using system that
-can run Make, you can use the simple Makefile to build and test your
-code.  If not, you're on your own.
+This is the Refactoring problem in Java. It is taken from a
+refactoring exercise in _Extreme Programming Explored_. If you are
+using system that can run Make, you can use the simple Makefile to
+build and test your code.  If not, you're on your own.
